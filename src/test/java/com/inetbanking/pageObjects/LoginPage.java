@@ -14,8 +14,8 @@ WebElement txtUserNameField;
 WebElement txtPasswordField;
 @FindBy(name="btnLogin")
 WebElement LoginBtn;
-
-
+@FindBy(xpath="//a[.='Log out']")
+WebElement Logoutlink;
 public LoginPage(WebDriver driver)
 {
 	this.driver=driver;
@@ -32,5 +32,9 @@ public void setpassword(String pwd)
 }
 public void login() {
 	LoginBtn.click();
+}
+public void logout() 
+{
+Logoutlink.click();	
 }
 }

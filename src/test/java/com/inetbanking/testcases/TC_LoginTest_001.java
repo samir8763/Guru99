@@ -1,15 +1,16 @@
 package com.inetbanking.testcases;
 
+import java.io.IOException;
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.inetbanking.pageObjects.LoginPage;
-import com.mongodb.diagnostics.logging.Logger;
 
 public class TC_LoginTest_001 extends BaseClass {
 	@Test
-	public void LoginTest() {
-		driver.get(url);
+	public void LoginTest() throws IOException {
+		
 		logger.info("URL Entered");
 		LoginPage lp = new LoginPage(driver);
 		lp.setusername(Username);
@@ -23,6 +24,7 @@ public class TC_LoginTest_001 extends BaseClass {
 			Assert.assertTrue(true);
 			logger.info("Login Test Passed");
 		} else {
+			captureScreen(driver, "LoginTest");
 			Assert.assertTrue(false);
 			logger.info("Login Test failed");
 		}
