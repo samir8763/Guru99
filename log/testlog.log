@@ -93,3 +93,80 @@
 2021-04-02 15:19:07,369 - ebanking -INFO - Login passed
 2021-04-02 15:19:11,462 - ebanking -INFO - User name is provided
 2021-04-02 15:19:11,587 - ebanking -INFO - Password is provided
+2021-04-04 07:30:38,617 - ebanking -INFO - User name is provided
+2021-04-04 07:30:38,934 - ebanking -INFO - Password is provided
+2021-04-04 07:30:41,515 - ebanking -INFO - Login passed
+2021-04-04 07:30:46,332 - ebanking -INFO - User name is provided
+2021-04-04 07:30:46,429 - ebanking -INFO - Password is provided
+2021-04-04 07:31:30,702 - ebanking -INFO - URL Entered
+2021-04-04 07:31:30,866 - ebanking -INFO - Username Entered
+2021-04-04 07:31:31,009 - ebanking -INFO - Password Entered
+2021-04-04 07:31:33,501 - ebanking -INFO - Login Successful
+2021-04-04 07:31:33,523 - ebanking -INFO - Login Test Passed
+2021-04-05 11:37:44,141 - ebanking -INFO - Username Provided Successfully
+2021-04-05 11:37:44,336 - ebanking -INFO - Password Provided Successfully
+2021-04-05 11:37:46,782 - ebanking -INFO - Login Successfull
+2021-04-05 11:37:49,790 - ebanking -INFO - Customer Details
+2021-04-05 11:37:52,578 - ebanking -INFO - Customer Added Successfully
+2021-04-05 12:01:55,948 - ebanking -INFO - URL Entered
+2021-04-05 12:01:57,730 - ebanking -INFO - Username Entered
+2021-04-05 12:01:58,110 - ebanking -INFO - Password Entered
+2021-04-05 12:02:01,553 - ebanking -INFO - Login Successful
+2021-04-05 12:02:01,578 - ebanking -INFO - Login Test Passed
+2021-04-05 12:02:23,108 - ebanking -INFO - User name is provided
+2021-04-05 12:02:23,363 - ebanking -INFO - Password is provided
+2021-04-05 12:02:27,059 - ebanking -INFO - Login passed
+2021-04-05 12:02:33,178 - ebanking -INFO - User name is provided
+2021-04-05 12:02:33,393 - ebanking -INFO - Password is provided
+2021-04-05 12:02:37,469 - ebanking -INFO - User name is provided
+2021-04-05 12:02:37,678 - ebanking -INFO - Password is provided
+2021-04-05 12:02:41,730 - ebanking -INFO - User name is provided
+2021-04-05 12:02:41,969 - ebanking -INFO - Password is provided
+2021-04-05 12:02:43,279 - ebanking -INFO - Login passed
+2021-04-05 12:02:47,512 - ebanking -INFO - User name is provided
+2021-04-05 12:02:47,735 - ebanking -INFO - Password is provided
+2021-04-05 12:03:04,581 - ebanking -INFO - Username Provided Successfully
+2021-04-05 12:03:04,813 - ebanking -INFO - Password Provided Successfully
+2021-04-05 12:03:58,720 - ebanking -INFO - Login Successfull
+2021-04-05 12:04:01,726 - ebanking -INFO - Customer Details
+2021-04-05 12:12:59,987 - ebanking -INFO - URL Entered
+2021-04-05 12:34:31,718 - ebanking -INFO - URL Entered
+2021-04-05 12:34:32,985 - ebanking -INFO - Username Entered
+2021-04-05 12:34:33,152 - ebanking -INFO - Password Entered
+2021-04-05 12:34:44,178 - ebanking -INFO - Login Successful
+2021-04-05 12:34:44,314 - ebanking -INFO - Login Test Passed
+2021-04-05 12:34:54,900 - ebanking -INFO - Username Provided Successfully
+2021-04-05 12:34:55,108 - ebanking -INFO - Password Provided Successfully
+2021-04-05 12:34:58,073 - ebanking -INFO - Login Successfull
+2021-04-05 12:35:01,104 - ebanking -INFO - Customer Details
+2021-04-05 12:35:04,463 - ebanking -INFO - Customer Added Successfully
+2021-04-05 12:36:25,405 - ebanking -INFO - URL Entered
+2021-04-05 12:36:25,781 - ebanking -INFO - Username Entered
+2021-04-05 12:36:25,950 - ebanking -INFO - Password Entered
+2021-04-05 12:36:31,326 - ebanking -INFO - Login Successful
+2021-04-05 12:36:31,347 - ebanking -INFO - Login Test Passed
+2021-04-05 12:36:45,116 - ebanking -INFO - Username Provided Successfully
+2021-04-05 12:36:45,261 - ebanking -INFO - Password Provided Successfully
+2021-04-05 12:36:59,145 - ebanking -INFO - Login Successfull
+2021-04-05 12:37:02,150 - ebanking -INFO - Customer Details
+2021-04-05 12:37:05,551 - ebanking -INFO - Customer Added Successfully
+2021-04-05 12:38:13,117 - ebanking -INFO - URL Entered
+2021-04-05 12:38:13,621 - ebanking -INFO - Username Entered
+2021-04-05 12:38:13,762 - ebanking -INFO - Password Entered
+2021-04-05 12:38:16,611 - ebanking -INFO - Login Successful
+2021-04-05 12:38:16,634 - ebanking -INFO - Login Test Passed
+2021-04-05 12:38:32,658 - ebanking -INFO - Username Provided Successfully
+2021-04-05 12:38:32,860 - ebanking -INFO - Password Provided Successfully
+2021-04-05 12:38:36,363 - ebanking -INFO - Login Successfull
+2021-04-05 12:38:39,374 - ebanking -INFO - Customer Details
+2021-04-05 12:38:41,956 - ebanking -INFO - Customer Added Successfully
+2021-04-05 12:48:30,494 - ebanking -INFO - URL Entered
+2021-04-05 12:48:36,006 - ebanking -INFO - Username Entered
+2021-04-05 12:48:36,286 - ebanking -INFO - Password Entered
+2021-04-05 12:48:40,112 - ebanking -INFO - Login Successful
+2021-04-05 12:48:40,137 - ebanking -INFO - Login Test Passed
+2021-04-05 12:48:57,515 - ebanking -INFO - Username Provided Successfully
+2021-04-05 12:48:57,668 - ebanking -INFO - Password Provided Successfully
+2021-04-05 12:49:00,659 - ebanking -INFO - Login Successfull
+2021-04-05 12:49:03,667 - ebanking -INFO - Customer Details
+2021-04-05 12:49:10,870 - ebanking -INFO - Customer Added Successfully
